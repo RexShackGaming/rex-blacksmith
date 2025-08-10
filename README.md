@@ -11,7 +11,7 @@
 - ensure that the dependancies are added and started
 - add rex-blacksmith to your resources folder
 - add rex-blacksmith.sql to your database
-- add items to your rsg-cor\shared\items.lua
+- add items to your rsg-core\shared\items.lua
 - add images to your rsg-inventory\html\images
 - add jobs to your rsg-cor\shared\jobs.lua
 
