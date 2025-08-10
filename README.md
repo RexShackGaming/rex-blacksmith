@@ -16,7 +16,7 @@
 - add jobs to your rsg-cor\shared\jobs.lua
 
 # Starting the resource
-- add the following to your server.cfg file : ensure rex-blackmarket
+- add the following to your server.cfg file : ensure rex-blacksmith
 
 # support me
 - tebex : https://rexshackgaming.tebex.io/
